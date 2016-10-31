@@ -9,7 +9,7 @@ You'll be greeted with:
 ```
 How many SmUUIDs would you like to create? 
 ```
-Type an integer greater than 1 (for example: 10)
+Type an integer greater than or equal 1 and less than or equal to 100 (for example: 10)
 
 You will see an output like:
 ```
@@ -26,7 +26,7 @@ You will see an output like:
 ```
 Now you copy and use one of the SmUUIDs generated!
 
-*Note: If you type an invalid character or 0, then that will abort the script! Wait a few seconds and it will restart the script for you!
+*Note: If you type an invalid character, then that will temporarily stop the script! Wait a few seconds and it will restart on its own!
 
 ```
 Changelog:
