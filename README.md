@@ -27,3 +27,20 @@ You will see an output like:
 Now you copy and use one of the SmUUIDs generated!
 
 *Note: If you type an invalid character or 0, then that will abort the script! Wait a few seconds and it will restart the script for you!
+
+```
+Changelog:
+
+2.0.0
+- created a streamlined command with better GUI
+- refactored entire functional logic pattern
+- optimized and reduced WET code
+- added source notes 
+
+2.1.0
+- reduced the amount of time it takes to load/reload script and description texts
+- reduced error description to be more specific
+- limited code generation to 100 or less
+- optimized and reduced WET code
+
+```
