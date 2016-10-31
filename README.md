@@ -24,6 +24,6 @@ You will see an output like:
 9: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 10: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
 ```
-Now you copy and use one of the uuidgen's generated!
+Now you copy and use one of the SmUUIDs generated!
 
 *Note: If you type an invalid character or 0, then that will abort the script! Wait a few seconds and it will restart the script for you!
