@@ -3,11 +3,11 @@ Introduction
 
 generateUUIDGEN is a simple automated bash script that generates a user specified amount of uuidgen's
 
-Simply unzip the folder generateUUIDGEN_v1.0.0.zip to your Desktop, open a Terminal window, and drag and drop the file "generateUUIDGEN_v1.0.0" into the Terminal window and hit the Return key.
+Simply download and unzip the generateUUIDGEN.zip folder to your Desktop. Open the unzipped folder and double click the generateUUIDGEN.command and then follow the on screen instructions.
 
 You'll be greeted with:
 ```
-"How many uuidgen’s do you want to create?
+How many SmUUIDs would you like to create? 
 ```
 Type an integer greater than 1 (for example: 10)
 
@@ -26,4 +26,4 @@ You will see an output like:
 ```
 Now you copy and use one of the uuidgen's generated!
 
-*Note: If you type an invalid character(s) or 0, then that will abort the script! You'll have to reload it to continue!
+*Note: If you type an invalid character or 0, then that will abort the script! Wait a few seconds and it will restart the script for you!
