@@ -3,7 +3,7 @@ Introduction
 
 generateUUIDGEN is a simple automated bash script that generates a user specified amount of SmUUIDs
 
-Simply download and unzip the generateUUIDGEN.zip folder to your Desktop. Open the unzipped folder and double click the generateUUIDGEN.command and then follow the on screen instructions.
+Simply download and unzip the generateUUIDGEN.zip folder to your Desktop. Open the unzipped folder and double click the generateUUIDGEN.command file and then follow the on screen instructions.
 
 You'll be greeted with:
 ```
