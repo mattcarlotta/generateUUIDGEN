@@ -1,4 +1,5 @@
-# generateUUIDGEN
+# DEPRECATED - see https://github.com/mfc88/iMessageTool
+
 Introduction
 
 generateUUIDGEN is a simple automated bash script that generates a user specified amount of SmUUIDs
